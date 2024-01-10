@@ -1,0 +1,3 @@
+[submodule "DirectVoxGO"]
+	path = DirectVoxGO
+	url = https://github.com/sunset1995/DirectVoxGO.git
